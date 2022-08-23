@@ -1,0 +1,5 @@
+C:\Users\mohammadarshad\source\repos\readManagerClass\readManagerClass\obj\Debug\net6.0\readManagerClass.csproj.AssemblyReference.cache
+C:\Users\mohammadarshad\source\repos\readManagerClass\readManagerClass\obj\Debug\net6.0\readManagerClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohammadarshad\source\repos\readManagerClass\readManagerClass\obj\Debug\net6.0\readManagerClass.AssemblyInfoInputs.cache
+C:\Users\mohammadarshad\source\repos\readManagerClass\readManagerClass\obj\Debug\net6.0\readManagerClass.AssemblyInfo.cs
+C:\Users\mohammadarshad\source\repos\readManagerClass\readManagerClass\obj\Debug\net6.0\readManagerClass.csproj.CoreCompileInputs.cache
